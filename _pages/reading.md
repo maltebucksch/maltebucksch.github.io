@@ -2,28 +2,10 @@
 layout: page
 title: Reading List
 permalink: /reading/
-image: '/images/01-2.jpg'
+image: '/images/bookcovers/covers.png'
 ---
 
 I think reading lists by people that do stuff I find interesting is a useful way to discover relevant new books for yourself. I've made use of reading lists such as the one by <u>Bill Gates</u> and been inspired by the idea of sharing them with a personal comment attached (like Oliver Eidel does <u>here</u>). I'll do the same here by sharing non-fiction books I've read including my personal note on each:
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
 
 <h2>2015</h2>
 - Power of Now

@@ -1,12 +1,12 @@
 ---
 title: The Spelleditor
 date: 2022-01-09 08:01:35 +0300
-subtitle: How far can you get?
-image: '/images/dabuda2.jpg'
+subtitle: Build your own spells & magic weapons
+image: '/images/games/game-spelleditor.jpg'
 ---
 
-You have to survive as long as possible while all kinds of creatures want to stop you from that.
+You always wanted to create your own spells? This tool allows it.
 
-Only the best players can get into the online-highscore-list.
+Freezing snow cannons, a destroying rocket launcher or a overwhelming thunder storm spell, try it and see yourself.
 
-[Download (Windows/Mac/Linux)](http://malteb.com/projectdownloads/Dabuda2.jar)
+Download (Windows/Mac/Linux)

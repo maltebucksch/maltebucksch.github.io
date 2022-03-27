@@ -1,12 +1,22 @@
 ---
 title: Perplex
 date: 2022-01-09 08:01:35 +0300
-subtitle: How far can you get?
-image: '/images/dabuda2.jpg'
+subtitle: Strategic gameplay combined with art
+image: '/images/games/game-perplex.jpg'
 ---
 
-You have to survive as long as possible while all kinds of creatures want to stop you from that.
+Go on a journey in a world of true perplexity.
 
-Only the best players can get into the online-highscore-list.
+Equip your ship with cannons. Protect it with shot-repelling-platforms.
 
-[Download (Windows/Mac/Linux)](http://malteb.com/projectdownloads/Dabuda2.jar)
+Find out how far you can ship.
+
+
+
+Download (Windows)
+
+You start with a small ship. By killing enemies you gain money. With the money you buy new equipment and enlarge your ship.
+
+
+
+Awarded with the 3rd place in the ZFX Action, a competition for independent games by the ZFX-game-forum.
