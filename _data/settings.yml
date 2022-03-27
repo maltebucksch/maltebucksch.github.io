@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Malte
+title: Malte Bucksch
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Hilton is a super simple portfolio theme for Jekyll.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -10,35 +10,41 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'About Me'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Pages'
+    - title: 'Developing'
       submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+      - url: '/developing-apps/'
+        title: 'Mobile Apps & Web Apps'
+      - url: '/projects/'
+        title: 'Games'
+    - title: 'Reading'
+      url: '/reading/'
+    - title: 'Writing'
+      url: '/writing/'
+    - title: 'Speaking'
+      url: '/speaking/'
+    - title: 'Press'
+      url: '/press/'
+    # - title: 'Blog'
+    #   url: '/blog/'
+
 
 
 #-------------------------------
 # Author Settings
 author:
-  author__name: Ms
-  author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  author__avatar: '/images/01-1.jpg'
+  author__name: Contact Details
+  author__bio: Feel free to drop me a message on Linkedin or send me an Email.
+  author__avatar: '/images/malte.jpg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/maltebucksch/"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/maltebucksch"}
+# - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# - {icon: "ion-logo-instagram", link: "https://instagram.com"}
+# - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+# - {icon: "ion-logo-github", link: "https://github.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -113,16 +119,16 @@ blog__settings:
 
 #-------------------------------
 # Gallery Footer Settings
-gallery:
-  gallery__images:
-    - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/gallery-2.jpg'
-    - alt: 'Hobby'
-      url: '/images/gallery-3.jpg'
-    - alt: 'Notes'
-      url: '/images/gallery-4.jpg'
+# gallery:
+#   gallery__images:
+#     - alt: 'Rest'
+#       url: '/images/gallery-1.jpg'
+#     - alt: 'Lifestyle'
+#       url: '/images/gallery-2.jpg'
+#     - alt: 'Hobby'
+#       url: '/images/gallery-3.jpg'
+#     - alt: 'Notes'
+#       url: '/images/gallery-4.jpg'
 
 
 #-------------------------------
