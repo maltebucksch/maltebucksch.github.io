@@ -14,9 +14,9 @@ menu__settings:
       url: '/'
     - title: 'Developing'
       submenu:
-      - url: '/developing-apps/'
+      - url: '/projects-apps/'
         title: 'Mobile Apps & Web Apps'
-      - url: '/projects/'
+      - url: '/projects-games/'
         title: 'Games'
     - title: 'Reading'
       url: '/reading/'

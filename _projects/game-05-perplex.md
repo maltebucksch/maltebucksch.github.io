@@ -3,6 +3,7 @@ title: Perplex
 date: 2022-01-09 08:01:35 +0300
 subtitle: Strategic gameplay combined with art
 image: '/images/games/game-perplex.jpg'
+projecttype: game
 ---
 
 Go on a journey in a world of true perplexity.

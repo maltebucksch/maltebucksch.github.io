@@ -3,6 +3,7 @@ title: Frekl Game Engine
 date: 2022-03-27 08:01:35 +0300
 subtitle: Build 2D games with minimal effort
 image: '/images/games/game-compilation.jpg'
+projecttype: game
 ---
 
 Over the years I developed, refined and published the Frekl Game Engine. It is used in a number of different games like Dabuda, Spellcreator, ZeroDependent and The Road to Ruin. The ZFX Game developer community was a great support there to improve it over the years. Since I switched to other projects some years ago I needed to stop development of it. Right now it is now longer safe to be used. It is especially designed for programmers who want to create 2D games in a minimum amount of time with Java.
