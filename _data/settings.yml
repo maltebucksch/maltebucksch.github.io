@@ -53,8 +53,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Malte. I am a guy who is currently bored.
-  hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+  hero__title: I'm Malte. I am a dude that wants a new website.
+  hero__description: So I thought: why not make one? I mean. Just build one and write some text. And done. Right? Right! This website is work in progress though! You'll only find stupid content.
   hero__image: '/images/malte.jpg'
 
 
