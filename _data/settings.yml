@@ -53,8 +53,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Malte. I am a dude that wants a new website.
-  hero__description: So I thought: why not make one? I mean. Just build one and write some text. And done. Right? Right! This website is work in progress though! You'll only find stupid content.
+  hero__title: I'm Malte. I like to build stuff.
+  hero__description: This is a subtitle and I havn't thought of any good sentence for it yet.
   hero__image: '/images/malte.jpg'
 
 
