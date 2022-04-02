@@ -2,31 +2,63 @@
 layout: page
 title: Speaking List
 permalink: /speaking/
-image: '/images/01-2.jpg'
 ---
-
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
-
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
+    <img src="/images/talks/speech3.jpg" loading="lazy">
+    <img src="/images/talks/speech2.jpg" loading="lazy">
+    <img src="/images/talks/speech5.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+Over the last years, I've sometimes also hopped on a stage to hold talks about stuff I'm excited about.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+Next to reading and writing, speaking is another fascinating way to convey knowledge but also to learn a lot yourself. Similar to writing, holding talks forced to me to understand topics on a very deep level. The fear to make a fool out of myself on stage triggered the perfectionist in me. So I usually spent way too much time preparing these talks.
+But at least that made me feel confident when I as on stage and it gave room to super interesting Q&A sessions.
 
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
+Some talks and workshops I've held are listed below:
 
-![Sea]({{site.baseurl}}/images/106.jpg)
-*Photo by [Alyssa Strohmann](https://unsplash.com/photos/2r2RUsEU1Aw) on [Unsplash](https://unsplash.com/)*
+## 2022: Charite: The future of Diabetes apps based on SGB V §374a
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+§374a is a new paragraph that should force producers of medical devices to open up their data pools via an API.
+Charite invited QuickBird to give a short talk about the topic since we work with medical apps and interoperability a lot and also write articles about that topic. This was part of a bigger workshop that discussed the new law and its benefits and shortcomings.
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+## 2018: Paid 2-day Workshop about Eppleton IT Consulting
+
+After my first workshop about Kotlin at Eppleton IT Consulting, I gave another one about RxJava. It was a small workshop with 4 people but the attendees were really excited about the topic and I loved the experience.
+
+## 2018: Paid 1-day Workshop about MVVM on iOS & Android for the Süddeutsche Zeitung
+
+We got invited to hold a paid workshop at the Süddeutsche Zeitung about MVVM after my previous talks about the topic. It was a lot of fun preparing and holding a practical, educative workshop about this topic. Especially, since the SZ developer team is just super nice, curious and smart. That's the perfect audience for a workshop like that.
+
+## 2018: Paid 1-day Workshop about MVVM on iOS & Android for the Süddeutsche Zeitung
+
+We got invited to hold a paid workshop at the Süddeutsche Zeitung about MVVM after my previous talks about the topic. It was a lot of fun preparing and holding a practical, educative workshop about this topic. Especially, since the SZ developer team is just super nice, curious and smart. That's the perfect audience for a workshop like that.
+
+## 2018: Testing Mobile Apps at the "Agile Testing" Meetup
+
+After my previous talks, Stefan (my co-founder at QuickBird) and me got invited to talk about testing mobile apps at the "Agile Testing Meetup" in Munich. The organizers Tobi and Johannes had a big Meetup group that attracted usually about 50 attendees per event and we really like the concept. No question that we did it.
+https://www.slideshare.net/QuickBirdStudios/testing-mobile-apps-94205239
+
+## 2018: MVVM with Kotlin at the Kotlin User Group
+
+My colleagues at QuickBird and me were really excited to apply the MVVM-programming-pattern (Model-View-ViewModel) to Android and iOS systems. We created a bunch of different concepts on how to apply it and used it extensively in our app projects. At that time, not many people knew how to apply MVVM to mobile Operating Systems yet. Enqrique, the organizer of that group, really liked that idea. So I gave a talk at the Kotlin User Group, the biggest meetup group for Kotlin developers in Munich. That was a lot of fun and I loved the provocative & critical questions by some of the really smart guys attending - thanks for the opportunity, Enrique!
+Slides: https://www.slideshare.net/QuickBirdStudios/mvvm-with-kotlin-making-ios-and-android-apps-as-similar-as-possible
+
+## 2017: Paid 2-day workshop for a bunch of programmers of different companies about "Kotlin"
+
+This was my first workshop where participants actually paid some good money for attending. That put pressure on me and gave way to my inner perfectionist again. I spend tons of time on the preparation of this workshop. And luckily, it worked out really well.
+Anto, the Managing Director of Eppleton IT Consulting offered me this opportunity and I am still thankful for it.
+
+## 2017: Intro to Kotlin at the "Nighthacking" Event by Eppleton IT Consulting.
+
+This was an introduction to Kotlin and it's advantages against Java (Slides from the Nighthacking in Munich at Eppleton IT Consulting.)
+That was exactly the time when all of all the hype around Kotlin started. And it was a justified hype - what a beautiful programming language!
+Slides: https://www.slideshare.net/QuickBirdStudios/kotlin-basics-81854441
+
+## 2014 "Smartwatch App Development" at Agora Space in Shanghai, China
+
+I've spent two semesters abroad in China (Shanghai) during my studies.
+Right at that time, Android Wear, Google's Smartwatch Operating System, has just been released in a beta status by Google. There was no apple watch yet and nobody really thought about smartwatches yet. People actually stared a lot at me when I found my way to my first Android Wear smartwatch, the Moto 360 (it was a fight to get my hands on this one!).
+
+I told Frederic, the managing director at Agora Space, about my passion and product plans for smartwatch apps. And he invited me to teach a bunch of 20-30 developers how to develop apps for these new devices. I was extremely scared by the idea of holding my first ever (tiny) public tech talk in a country I barely got used to yet. But I did it and got to know very interesting developers in that way. Thanks a lot, Frederic!

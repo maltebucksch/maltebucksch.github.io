@@ -12,6 +12,8 @@ menu__settings:
   menu__items:
     - title: 'About Me'
       url: '/'
+    - title: 'Founding'
+      url: '/founding/'
     - title: 'Developing'
       submenu:
       - url: '/projects-apps/'

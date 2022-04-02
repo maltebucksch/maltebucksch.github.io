@@ -2,8 +2,14 @@
 layout: page
 title: Reading List
 permalink: /reading/
-image: '/images/bookcovers/covers.png'
 ---
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/bookcovers/hardthing.jpeg" loading="lazy">
+    <img src="/images/bookcovers/leanstartup.jpeg" loading="lazy">
+    <img src="/images/bookcovers/zerotoone.jpeg" loading="lazy">
+  </div>
+</div>
 
 I think reading lists by people that do stuff I find interesting is a useful way to discover relevant new books for yourself. I've made use of reading lists such as the one by <u>Bill Gates</u> and been inspired by the idea of sharing them with a personal comment attached (like Oliver Eidel does <u>here</u>). I'll do the same here by sharing non-fiction books I've read including my personal note on each:
 
