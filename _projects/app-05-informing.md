@@ -18,4 +18,4 @@ Afterwards Informing gives you tips on how to avoid such scenarios.
 
 By distributing it in schools this app could teach pupils at a very young age about this critical topic.
 
-![Sea]({{site.baseurl}}/images/informing/screen3.jpg)
+![informing-screenshot]({{site.baseurl}}/images/informing/screen3.jpg)

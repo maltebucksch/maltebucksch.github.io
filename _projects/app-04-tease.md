@@ -7,14 +7,14 @@ projecttype: app
 ---
 This was the software project that Dora, my supervisor during my bachelor thesis at the TUM, suggested me to implement. I really liked her idea and it would have been my first web project. So I definitely went along and developed the first version of it.
 
-![Sea]({{site.baseurl}}/images/tease/screen2.png)
+![Tease Screenshot]({{site.baseurl}}/images/tease/screen2.png)
 
 # About the project
 
 In an agile world, you want to create small multi-functional teams for building software products. Each team can independently work on a core feature of the product you want to create.
 Allocating productive multi-functional teams is hard. Project-managers need to take into account the persons’ hard skills, soft skills and personal relation ships in order to create productive teams.
 
-![Sea]({{site.baseurl}}/images/tease/screen1.png)
+![Tease Screenshot]({{site.baseurl}}/images/tease/screen1.png)
 
 TEASE (TEam Allocation for Software Engineering) aims to support and structure the process of allocating optimal software engineering teams from a pool of persons. TEASE supports project managers in three aspects:
 
@@ -27,4 +27,4 @@ TEASE (TEam Allocation for Software Engineering) aims to support and structure t
 
 TEASE was or maybe is still used by the Technical University of Munich to allocate student teams that implement software solutions during the iPraktikum course
 
-![Sea]({{site.baseurl}}/images/tease/screen3.png)
+![Tease Screenshot]({{site.baseurl}}/images/tease/screen3.png)

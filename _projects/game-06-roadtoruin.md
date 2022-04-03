@@ -6,11 +6,8 @@ image: '/images/games/game-theroadtoruin.jpg'
 projecttype: game
 ---
 
-You will fail for sure.
+You will fail for sure. But when, depends on you.
 
-But when, depends on you.
-
-
-Download (Windows)
+[Download (Windows)](/downloads/TheRoadToRuin.zip)
 
 Use the arrow-keys to move yourself further.

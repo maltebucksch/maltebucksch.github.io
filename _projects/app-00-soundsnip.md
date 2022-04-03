@@ -12,7 +12,7 @@ I started programming right when the first Android Wear smartwatch came out. The
 
 When it was finished in its first version and went back to Munich I met up with Thomas, a young, ambitius marketing expert. Together, we wanted to make SoundSnip popular. We founded a company (mostly to have some legal protection - we didn't really plan to become the next "facebook" with this idea). Thomas managed to get us into UnternehmerTUM who supported our startup by providing mentors and workshops.
 
-![Sea]({{site.baseurl}}/images/soundsnip/pitch.jpg)
+![SoundSnip Pitch]({{site.baseurl}}/images/soundsnip/pitch.jpg)
 
 SoundSnip was the first app that allows you to rewind time. It helped musicians to capture melodies that they would have otherwise lost. Mothers can listen to the (first) words of their child again. Pupils used it to capture "Did you really just say that?!"-moments.
 
@@ -22,7 +22,7 @@ We grew a user base of more than 2000 people, got covered multiple times by the 
 
 # What does the app exactly do?
 
-![Sea]({{site.baseurl}}/images/soundsnip/tapboom.jpg)
+![SoundSnip Tap Gesture]({{site.baseurl}}/images/soundsnip/tapboom.jpg)
 
 SoundSnip gets you back the most important moments in your life. After they happened.
 
