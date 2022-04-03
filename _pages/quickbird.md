@@ -5,27 +5,27 @@ permalink: /quickbird/
 ---
 We founded QuickBird in 2016 with the goal to become an app agency focussing on building truely great apps instead of the mediocre stuff that other agencies often seemed to produce. 
 
-That continues to be our motto until today and is also part of the reason why we are heavily foccussing heavily on the medical industry. There is a natural demand for quality in this space. To build safety-critical software that patients rely on, you need to take software quality seriously. Our customers in this space know this and appreciate our focus on quality.
+That continues to be our motto until today and is also part of the reason why we are foccussing heavily on the medical industry. There is a natural demand for quality in this space. To build safety-critical software that patients rely on, you need to take software quality seriously. Our customers know this and appreciate our focus on quality.
 
-Since 2016, we grew from 4 people to 22 people (as of 2022):
+Since the founding in 2016, we grew a team of 22 awesome developers, project managers, quality assurance specialists and marketers (as of 2022).
+
+![Sea]({{site.baseurl}}/images/quickbird/team.jpg)
 
 
 
+# What does QuickBird do?
 
+In a nutshell, we are a software agency. We offer software development and design services to other companies. We have two departments:
 
-# What is QuickBird?
-
-In a nutshell, we are a software agency. We have two departments:
-
-#### QuickBird Medical
+### QuickBird Medical
 
 We focus on building medical software for companies in the health space. We, therefore, know how to develop software as a medical device in compliance with the regulatory requirements that apply. 
 
-Link: 
+Link: [QuickBird Medical Website](https://quickbirdmedical.com/)
 
-#### QuickBird Studios
+### QuickBird Studios
 
 We're building mobile apps for customers from any kind of industry like Lufthansa, Caterpillar, Zeppelin, etc. 
 
-Link: 
+Link: [QuickBird Studios Website](https://quickbirdstudios.com/)
 
