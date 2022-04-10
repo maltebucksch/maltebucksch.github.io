@@ -7,7 +7,7 @@ projecttype: app
 ---
 Studieren.de was our first (!) customer for <a href="/QuickBird">QuickBird</a> after we founded the company in 2016 and this was my first project for them. At that time, I was still actively programming Android apps as part of the team.
 
-Valentin, the managing director, offered us his office during that time. I am still thankful for that. So this project also gave us our first place to work. 
+Valentin, the managing director, offered us his office during that time. I am still thankful for that. So, this project also gave us our first place to work. 
 
 [Download Link](https://module.org/)
 

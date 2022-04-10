@@ -13,7 +13,7 @@ permalink: /writing/
 
 I enjoy writing about certain topics ...
 
-1. ... that I feel have not been covered enough yet by other authors.
+1. ... that, I feel, have not been covered enough yet by other authors.
 2. ... where I feel I gained a fairly deep understanding that might add well to existing knowledge pool of the internet.
 
 Next to providing value to the readers, writing also helps tremendously to structure your own thoughts about complex topics (as Paul Graham nicely summarizes [in his essay here](http://www.paulgraham.com/words.html)).
@@ -38,7 +38,7 @@ Simplifying complex information flows into simple processes, removing redundancy
 
 Building up an efficient Quality Management System for our company felt a bit like writing a good software piece.
 
-It was a pretty complex endeavour considering how few resources are available on the topic publicly. But, luckily, by now, there are a few companies like Johner or Open Regulatory who share some valueable information on the topics. With QuickBird Medical, we also try to contribute a bit to helping new companies finding their way into medical device regulatory:
+It was a pretty complex endeavour, considering how few resources are available on the topic publicly. But, luckily, by now, there are a few companies like Johner or Open Regulatory who share some valuable information on the topics. With QuickBird Medical, we also try to contribute a bit to helping new companies finding their way into medical device regulatory:
 
 [Leitfaden für die Entwicklung von Medical Apps: Darauf müssen Hersteller achten](https://quickbirdmedical.com/medical-app-entwicklung-mdr/)
 
@@ -60,7 +60,7 @@ I'm a bit of a maniac when it comes to self-organization and constantly look for
 
 Link: [Achieve stress-free productivity by implementing a working TODO-System in your life](https://www.linkedin.com/pulse/achieve-stress-free-productivity-implementing-working-malte-bucksch/)
 
-### The Lean Döner: What’s wrong with the Döner leanindustry?
+### The Lean Döner: What’s wrong with the Döner industry?
 
 [The Lean Startup Methodology](https://en.wikipedia.org/wiki/Lean_startup) is a beautiful framework for founding companies with as few waste (time, energy, resources) as possible. A pity that this framework didn't take hold in the Kebap/Döner industry yet :-) Here is a half-serious article of mine on how it could be applied.
 
@@ -68,6 +68,6 @@ Link: [The Lean Döner: What’s wrong with the Döner industry?](https://www.li
 
 ### What makes a great developer? A story of an extraordinary blacksmith
 
-After working with many different types of developer personalities throughout software projects, I started considering a few fundamental attributes to be the most important in order to become a great programmer. I've seen genius developers who got lost over-engineering software systems wasting tons of time in the process, as well as programmers who under-engineered stuff without thinking things through. I have certainly been guilty of both as well. Nevertheless, I always kept trying hard to find the right balance. Here is a summary of my thoughts on this topic:
+After working with many types of developer personalities throughout software projects, I started considering a few fundamental attributes to be the most important in order to become a great programmer. I've seen genius developers who got lost over-engineering software systems, wasting tons of time in the process, as well as programmers who under-engineered stuff without thinking things through. I have certainly been guilty of both as well. Nevertheless, I always kept trying hard to find the right balance. Here is a summary of my thoughts on this topic:
 
 Link: [What makes a great developer? A story of an extraordinary blacksmith](https://quickbirdstudios.com/blog/the-best-blacksmith-developer/)

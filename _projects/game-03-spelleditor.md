@@ -8,7 +8,7 @@ projecttype: game
 
 You always wanted to create your own spells? This tool allows it.
 
-Freezing snow cannons, a destroying rocket launcher or a overwhelming thunder storm spell, try it and see yourself.
+Freezing snow cannons, a destroying rocket launcher or an overwhelming thunderstorm spell, try it and see yourself.
 
 [Download (Windows/Mac/Linux)](/downloads/SpellEditor_2.0.zip)
 

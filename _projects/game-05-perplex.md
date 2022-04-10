@@ -10,7 +10,7 @@ Go on a journey in a world of true perplexity. Equip your ship with cannons. Pro
 
 [Download (Windows)](/downloads/PerplexV1.1.zip)
 
-You start with a small ship. By killing enemies you gain money. With the money you buy new equipment and enlarge your ship.
+You start with a small ship. By killing enemies, you gain money. With the money, you buy new equipment and enlarge your ship.
 
 Awarded with the 3rd place in the ZFX Action, a competition for independent games by the ZFX-game-forum:<br>
 <img src="/images/games/game-perplex-award.png">

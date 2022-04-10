@@ -6,6 +6,6 @@ image: '/images/games/game-dabuda2-02.png'
 projecttype: game
 ---
 
-This is the second part of the Dabuda-series. You have to survive as long as possible while all kinds of creatures want to stop you from that. Only the best players can get into the online-highscore-list.
+This is the second part of the Dabuda-series. You have to survive as long as possible, while all kinds of creatures want to stop you from that. Only the best players can get into the online-highscore-list.
 
 [Download (Windows/Mac/Linux)](/downloads/Dabuda2.jar)
