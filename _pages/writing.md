@@ -16,13 +16,13 @@ I enjoy writing about certain topics ...
 1. ... that I feel have not been covered enough yet by other authors.
 2. ... where I feel I gained a fairly deep understanding that might add well to existing knowledge pool of the internet.
 
-Next to providing value to the readers, writing also helps tremendously to structure your own thoughts about complex topics (as Paul Graham nicely summarizes in his essay here).
+Next to providing value to the readers, writing also helps tremendously to structure your own thoughts about complex topics (as Paul Graham nicely summarizes [in his essay here](http://www.paulgraham.com/words.html)).
 
 Here are a few of the articles that I've written so far:
 
 # App Development
 
-I love, love developing software and did so for the biggest part of my life. In the process, I wrote a few articles and build up the mobile development blog for QuickBird (with over 130k readers per year):
+I love, love developing software and did so for the biggest part of my life. In the process, I wrote a few articles and built up the mobile development blog for QuickBird (with over 130k readers per year):
 
 [What is Functional Reactive Programming (FRP)?](https://quickbirdstudios.com/blog/what-is-functional-reactive-programming-frp/)
 

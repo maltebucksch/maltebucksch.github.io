@@ -8,7 +8,7 @@ projecttype: app
 This app is the result of a software project that we implemented during the iPraktikum.
 The iPraktikum is an amazing practical course that teaches students how to develop iOS apps using Swift and assigns each student to a real app project for an external company. In teams of 5 people, we designed and developed informing for the company Adesso.
 
-This course was also where I got to know Stefan, my co-founder for QuickBird. So I guess joining this course was one of the most important decisions of my life. I wouldn't do what I do now if it weren't for this project.
+This course was also where I got to know Stefan, my co-founder for <a href="/QuickBird">QuickBird</a>. So I guess joining this course was one of the most important decisions of my life. I wouldn't do what I do now if it weren't for this project.
 
 # About the project
 

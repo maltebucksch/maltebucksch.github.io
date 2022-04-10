@@ -5,7 +5,7 @@ subtitle: App to create software development teams
 image: '/images/tease/cover.png'
 projecttype: app
 ---
-This was the software project that Dora, my supervisor during my bachelor thesis at the TUM, suggested me to implement. I really liked her idea and it would have been my first web project. So I definitely went along and developed the first version of it.
+This was the software project that Dora, my supervisor during my bachelor thesis at the TUM, suggested me to implement. I really liked her idea and it was my first web development project. So that was a hell lot of fun (in contrast to the actual writing part of the bachelor thesis :-D).
 
 ![Tease Screenshot]({{site.baseurl}}/images/tease/screen2.png)
 

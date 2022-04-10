@@ -5,7 +5,9 @@ subtitle: Rental of construction machinery
 image: '/images/zeppelin/cover.png'
 projecttype: app
 ---
-Zeppelin was our second customer for QuickBird. We built a new version of their existing mobile apps for them. While I was programming the app, we were often staying at Zeppelin's office to make collaboration between our teams officer. We got unlimited free food for lunch every day which is still the first thing that comes to my mind when I think about the project.
+Zeppelin was our second customer for [QuickBird](/QuickBird). We built a new version of the existing mobile apps for Zeppelin Rental, a platform for renting construction vehicles and equipment. 
+
+While we were programming the app, we often stayed at Zeppelin's office to make collaboration easier. We got unlimited free food for lunch every day - I still have that part very vividly in my head 😍🌮. 
 
 # About the project
 

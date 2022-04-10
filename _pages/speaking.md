@@ -31,34 +31,34 @@ After my first workshop about Kotlin at Eppleton IT Consulting, I gave another o
 
 We got invited to hold a paid workshop at the Süddeutsche Zeitung about MVVM after my previous talks about the topic. It was a lot of fun preparing and holding a practical, educative workshop about this topic. Especially, since the SZ developer team is just super nice, curious and smart. That's the perfect audience for a workshop like that.
 
-## 2018: Paid 1-day Workshop about MVVM on iOS & Android for the Süddeutsche Zeitung
-
-We got invited to hold a paid workshop at the Süddeutsche Zeitung about MVVM after my previous talks about the topic. It was a lot of fun preparing and holding a practical, educative workshop about this topic. Especially, since the SZ developer team is just super nice, curious and smart. That's the perfect audience for a workshop like that.
-
 ## 2018: Testing Mobile Apps at the "Agile Testing" Meetup
 
 After my previous talks, Stefan (my co-founder at QuickBird) and me got invited to talk about testing mobile apps at the "Agile Testing Meetup" in Munich. The organizers Tobi and Johannes had a big Meetup group that attracted usually about 50 attendees per event and we really like the concept. No question that we did it.
-https://www.slideshare.net/QuickBirdStudios/testing-mobile-apps-94205239
+
+[Link to slides](https://www.slideshare.net/QuickBirdStudios/testing-mobile-apps-94205239)
 
 ## 2018: MVVM with Kotlin at the Kotlin User Group
 
-My colleagues at QuickBird and me were really excited to apply the MVVM-programming-pattern (Model-View-ViewModel) to Android and iOS systems. We created a bunch of different concepts on how to apply it and used it extensively in our app projects. At that time, not many people knew how to apply MVVM to mobile Operating Systems yet. Enqrique, the organizer of that group, really liked that idea. So I gave a talk at the Kotlin User Group, the biggest meetup group for Kotlin developers in Munich. That was a lot of fun and I loved the provocative & critical questions by some of the really smart guys attending - thanks for the opportunity, Enrique!
-Slides: https://www.slideshare.net/QuickBirdStudios/mvvm-with-kotlin-making-ios-and-android-apps-as-similar-as-possible
+My colleagues at QuickBird and me were really excited to apply the MVVM-programming-pattern (Model-View-ViewModel) to Android and iOS systems. We created a bunch of different concepts on how to apply it and used it extensively in our app projects. At that time, not many people knew how to apply MVVM to mobile Operating Systems yet. 
+
+Enqrique, the organizer of that the Kotlin User Group in Munich, liked that idea. The Kotlin User Group is the biggest meetup group for Kotlin developers in Munich. Giving a talk there was a lot of fun and I loved the provocative & critical questions by some of the really smart guys attending.
+
+[Link to slides](https://www.slideshare.net/QuickBirdStudios/mvvm-with-kotlin-making-ios-and-android-apps-as-similar-as-possible)
 
 ## 2017: Paid 2-day workshop for a bunch of programmers of different companies about "Kotlin"
 
-This was my first workshop where participants actually paid some good money for attending. That put pressure on me and gave way to my inner perfectionist again. I spend tons of time on the preparation of this workshop. And luckily, it worked out really well.
-Anto, the Managing Director of Eppleton IT Consulting offered me this opportunity and I am still thankful for it.
+This was my first workshop where participants actually paid some good money to attend. That put pressure on me and gave way to my inner perfectionist again. I spend tons of time on the preparation of this workshop. And luckily, it worked out really well.
+Anton, the Managing Director of Eppleton IT Consulting offered me this opportunity and I am still thankful for it.
 
 ## 2017: Intro to Kotlin at the "Nighthacking" Event by Eppleton IT Consulting.
 
-This was an introduction to Kotlin and it's advantages against Java (Slides from the Nighthacking in Munich at Eppleton IT Consulting.)
-That was exactly the time when all of all the hype around Kotlin started. And it was a justified hype - what a beautiful programming language!
-Slides: https://www.slideshare.net/QuickBirdStudios/kotlin-basics-81854441
+This was an introduction to Kotlin and it's advantages against Java. That was exactly the time when all of all the hype around Kotlin started. And it was a justified hype - what a beautiful programming language!
+
+[Link to slides](https://www.slideshare.net/QuickBirdStudios/kotlin-basics-81854441)
 
 ## 2014 "Smartwatch App Development" at Agora Space in Shanghai, China
 
 I've spent two semesters abroad in China (Shanghai) during my studies.
-Right at that time, Android Wear, Google's Smartwatch Operating System, has just been released in a beta status by Google. There was no apple watch yet and nobody really thought about smartwatches yet. People actually stared a lot at me when I found my way to my first Android Wear smartwatch, the Moto 360 (it was a fight to get my hands on this one!).
+Right at that time, Android Wear, Google's Smartwatch Operating System, has just been released in a beta status by Google. There was no apple watch yet and nobody really knew what a smartwatches is. People in the subway in China actually stared a lot at me when after I bought the first Android Wear smartwatch, the Moto 360 (it was a fight to get my hands on this one!).
 
-I told Frederic, the managing director at Agora Space, about my passion and product plans for smartwatch apps. And he invited me to teach a bunch of 20-30 developers how to develop apps for these new devices. I was extremely scared by the idea of holding my first ever (tiny) public tech talk in a country I barely got used to yet. But I did it and got to know very interesting developers in that way. Thanks a lot, Frederic!
+I told Frederic, the managing director at Agora Space, about my passion and product plans for smartwatch apps (see [SoundSnip](/project/app-00-soundsnip)). And he invited me to teach a bunch of 20-30 developers how to develop apps for these new devices. I was extremely scared by the idea of holding my first ever (tiny) public tech talk in a country I barely got used to yet. But I did it and got to know very interesting developers in that way. Thanks a lot, Frederic!
