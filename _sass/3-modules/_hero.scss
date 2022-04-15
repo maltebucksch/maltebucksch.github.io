@@ -12,6 +12,7 @@
 .hero__inner {
   display: flex;
   align-items: center;
+  margin-bottom: 20px;
 
   @media only screen and (max-width: $desktop) {
     flex-direction: column;
@@ -80,6 +81,17 @@
     order: -1;
     max-width: 100%;
   }
+
+  a {
+    font-weight: 500;
+    border-bottom: 1px solid var(--border-color);
+    transition: $global-transition;
+
+    &:hover {
+      color: var(--link-color);
+      border-color: var(--link-color-hover);
+    }
+  }
 }
 
 .hero__title {
@@ -99,6 +111,15 @@
     font-size: 36px;
   }
 }
+
+.hero__spacing {
+  margin-bottom: 20px;
+}
+
+.hero__spacing-small {
+  margin-bottom: 10px;
+}
+
 
 .hero__description {
   margin-bottom: 0;

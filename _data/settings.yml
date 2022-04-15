@@ -2,7 +2,7 @@
 # Site Settings
 title: Malte Bucksch
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Hi, I'm Malte. 
+description: Hi, I'm Malte.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -17,9 +17,9 @@ menu__settings:
     - title: 'Developing'
       submenu:
       - url: '/projects-apps/'
-        title: 'Mobile Apps & Web Apps'
+        title: 'App Development Projects'
       - url: '/projects-games/'
-        title: 'Games'
+        title: 'Game Development Projects'
     - title: 'Reading'
       url: '/reading/'
     - title: 'Writing'
