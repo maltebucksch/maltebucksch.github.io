@@ -5,7 +5,7 @@ permalink: /founding/
 ---
 ## QuickBird (2016 - now)
 
-This is the company and team that all of my lifeblood flows into. We are a team of 25 people building apps (in an agency model) with a focus on the medical industry.
+This is the company and team that all of my lifeblood flows into. We are a team of {{ site.data.settings.quickbird.team__size }} people building apps (in an agency model) with a focus on the medical industry.
 
 More information: [QuickBird](/quickbird)
 
