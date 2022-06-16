@@ -18,7 +18,11 @@ But at least that made me feel confident when I as on stage, and it gave room to
 
 Some talks and workshops I've held are listed below:
 
-## 2022: Charite: The future of Diabetes apps based on SGB V §374a
+## 2022: UnternehmerTUM - How to successfully build and list a reimbursable Digital Health App (DiGA)
+Getting a medical app reimbursed by health insurance used to be a very hard and long-winded endeavor. Most start-ups ran out of money before they even hit the market. In 2019, Germany did what no other country has done before: establishing a standardized fast-track for getting digital health applications into the reimbursement system of health insurances.
+In this talk, I gave an overview of how to build a Software as a Medical Device (SaMD) and especially a DIGA that gets listed in the official DiGA-directory. 
+
+## 2022: Charite - The future of Diabetes apps based on SGB V §374a
 
 §374a is a new paragraph that should force producers of medical devices to open up their data pools via an API.
 Charite invited QuickBird to give a short talk about the topic since we work with medical apps and interoperability a lot and also write articles about that topic. This was part of a bigger workshop that discussed the new law and its benefits and shortcomings.
