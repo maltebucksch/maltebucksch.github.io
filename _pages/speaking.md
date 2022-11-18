@@ -18,6 +18,11 @@ But at least that made me feel confident when I as on stage, and it gave room to
 
 Some talks and workshops I've held are listed below:
 
+## 2022: VDE - Agile development of medical device software (MDR)
+
+Software/apps that qualify as a medical device according to the Medical Device Regulation and is, therefore, regulated, needs to be built inside the scope of a Quality Management System. There are lots of norms like ISO 13485, IEC 62304, ISO 14971 and IEC 62366 that define how this should work. However, there is very little guidance on how to merge requirements of these norms with an agile development approach.
+Together with Alex (Regulatory Affairs Manager at QuickBird Medical), I gave a presentation of how this can look like in practice. The presentation was part of a seminar by the VDE, Europe’s largest technical-scientific association.
+
 ## 2022: UnternehmerTUM - How to successfully build and list a reimbursable Digital Health App (DiGA)
 Getting a medical app reimbursed by health insurance used to be a very hard and long-winded endeavor. Most start-ups ran out of money before they even hit the market. In 2019, Germany did what no other country has done before: establishing a standardized fast-track for getting digital health applications into the reimbursement system of health insurances.
 In this talk, I gave an overview of how to build a Software as a Medical Device (SaMD) and especially a DIGA that gets listed in the official DiGA-directory. 
